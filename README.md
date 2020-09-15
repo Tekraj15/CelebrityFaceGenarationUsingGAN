@@ -3,5 +3,5 @@
 # Hey folks, Something Big is coming..
 #.
 #.
-# Wait for few weeks (due to my semester exam)..
+# Loading... (due to my semester exam)..
 
