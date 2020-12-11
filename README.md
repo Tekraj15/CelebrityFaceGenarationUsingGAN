@@ -1,3 +1,3 @@
-# Training-GPT-2-from-Scratch
+# Celebrity Face Genaration Using GAN
 
 
